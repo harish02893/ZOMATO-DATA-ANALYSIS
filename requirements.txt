@@ -3,3 +3,4 @@ requests==2.26.0
 SQLAlchemy==1.4.26
 dash==2.0.0
 Werkzeug==2.0.0
+dash-bootstrap-components==0.14.0
