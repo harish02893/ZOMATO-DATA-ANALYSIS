@@ -2,3 +2,4 @@ Flask==2.0.0
 requests==2.26.0
 SQLAlchemy==1.4.26
 dash==2.0.0
+Werkzeug==1.0.0
