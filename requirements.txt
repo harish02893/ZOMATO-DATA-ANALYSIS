@@ -3,3 +3,10 @@ requests==2.26.0
 SQLAlchemy==1.4.26
 dash = "^2.0.0"
 python = "^3.11"
+env:
+  pythonVersion: 3.11
+  poetryVersion: 1.2.0
+[tool.poetry.dependencies]
+python = "^3.11"
+dash = "^2.0.0"
+dash==2.0.0
